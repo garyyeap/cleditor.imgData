@@ -18,3 +18,11 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+The following files are included in this project : swfobject.js, expressInstall.js,
+filereader.swf, jquery.FileReader.min.js.
+
+'filereader.swf' and 'jquery.FileReader.min.js' are copyrighted by Jahdrien <https://github.com/Jahdrien/FileReader>.
+
+'expressInstall.swf' and 'swfobject.js' are copyrighted by SWFObject project <http://code.google.com/p/swfobject/>.
+
