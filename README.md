@@ -12,7 +12,7 @@ Add to your html file &lt;head&gt; section
 ```html
 <link rel="stylesheet" href="{path-to}/jquery.cleditor.css" type="text/css" />
 <script src="{path-to}/jquery-{version}.js"></script>
-<script type="text/javascript" src="{path-to}/jquery.cleditor.js"></script>
+<script src="{path-to}/jquery.cleditor.js"></script>
 <script src="{path-to}/cleditor.imgData.js"></script>
 <script>
 	$(function() {
