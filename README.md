@@ -13,6 +13,8 @@ Add to your html file &lt;head&gt; section
 <link rel="stylesheet" href="{path-to}/jquery.cleditor.css" type="text/css" />
 <script src="{path-to}/jquery-{version}.js"></script>
 <script src="{path-to}/jquery.cleditor.js"></script>
+<script src="{path-to}/swfobject.js"></script>
+<script src="{path-to}/jquery.FileReader.min.js"></script>
 <script src="{path-to}/cleditor.imgData.js"></script>
 <script>
 	$(function() {
