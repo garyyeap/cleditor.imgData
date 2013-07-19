@@ -1,7 +1,7 @@
 cleditor.imgData
 ================
 
-A Cleditor plugin allows Cleditor to upload image through html &lt;img> tag with
+A [Cleditor](https://github.com/cleditor/cleditor) plugin allows Cleditor to upload image through html &lt;img> tag with
 Data URI schema
 
 Usage
