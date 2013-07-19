@@ -7,33 +7,34 @@ Data URI schema
 Usage
 -----
 
-Add to your html file <head> section
+Add to your html file &lt;head&gt; section
 
-`<link rel="stylesheet" href="{path-to}/jquery.cleditor.css" type="text/css" />`
+```html
+<link rel="stylesheet" href="{path-to}/jquery.cleditor.css" type="text/css" />
 
-`<script src="{path-to}/jquery-{version}.js"></script>`
+<script src="{path-to}/jquery-{version}.js"></script>
 
-`<script type="text/javascript" src="{path-to}/jquery.cleditor.js"></script>`
+<script type="text/javascript" src="{path-to}/jquery.cleditor.js"></script>
 
-`<script src="{path-to}/cleditor.imgData.js"></script>`
+<script src="{path-to}/cleditor.imgData.js"></script>
 
-`<script>`
+<script>
 
-`$(function() {`
+	$(function() {
 
-`$( '#editor' ).cleditor({`
+		$( '#editor' ).cleditor({
 
-            `imgData : {`
+        	imgData : {
 
-                `swfPath : 'string' //(required)path to swf files(expressInstall
-                and filereader.swf)`
+            	swfPath : 'string' //(required)path to swf files(expressInstall and filereader.swf)`
 
-            `}`
+        	}
 
-            `//maybe other cleditor options as you like`
+        	//maybe other cleditor options as you like
 
-        `});`
+    	});
 
-`});`
+	});
 
-`</script>`
+</script>
+```
