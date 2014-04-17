@@ -21,7 +21,7 @@ Add to your html file &lt;head&gt; section
 		
 		$( '#editor' ).cleditor({
 			imgData : {
-		    	swfPath : 'string' // (required) path to swf files(expressInstall.swf and filereader.swf)
+		    	swfPath : 'string' // (required) dir of swf files(expressInstall.swf and filereader.swf)
 			}
 			//maybe other cleditor options as you like
 	    });
